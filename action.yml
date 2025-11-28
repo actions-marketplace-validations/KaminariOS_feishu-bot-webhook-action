@@ -1,6 +1,6 @@
-name: 'Github Events To Feishu Bot Action'
+name: 'Github Events To Feishu Bot Action-fork'
 description: 'send message to feishu bot'
-author: 'junka'
+author: 'KaminariOS'
 branding:
   icon: 'cloud-snow'
   color: 'blue'
